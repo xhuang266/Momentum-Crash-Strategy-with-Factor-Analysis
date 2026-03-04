@@ -22,10 +22,3 @@ It evolves from a simple hypothesis testing framework (OLS) to a market-neutral 
 * **`src/part5_xgboost.py`**: Implementation of the XGBoost Classifier for crash prediction using Walk-Forward Validation.
 * **`src/part6_comparison.py`**: Final performance comparison between Baseline, Bollinger Band, and XGBoost strategies.
 * **`src/part7_arima.py`**: ARIMA time-series modeling for volume forecasting.
-
-## How to Run
-
-1. Install dependencies:
-   ```bash
-
-   pip install -r requirements.txt
